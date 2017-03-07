@@ -1,0 +1,61 @@
+                        GROOVY MUSIC INC                            
+This program will delete all albums up to the specified cutoff year 
+
+Please enter the cutoff year: 
+2006
+
+GROOVY MUSIC CURRENT INVENTORY: 
+
+ID:2
+The Piano Guys by The Piano Guys
+Genre: Classical
+Year: 2012
+
+ID:11
+Greatest Hits by Fleetwood Mac
+Genre: Blues
+Year: 1988
+
+ID:20
+Greatest Hits by Neil Young
+Genre: Folk
+Year: 2004
+
+ID:22
+Mozart  by Various Artists
+Genre: Classical
+Year: 2010
+
+ID:80
+Continuum by John Mayer
+Genre: Blues
+Year: 2007
+
+INVENTORY ITEMS BEING DELETED: 
+
+ID:11
+Greatest Hits by Fleetwood Mac
+Genre: Blues
+Year: 1988
+
+ID:20
+Greatest Hits by Neil Young
+Genre: Folk
+Year: 2004
+
+GROOVY MUSIC INVENTORY AFTER DELETION: 
+
+ID:2
+The Piano Guys by The Piano Guys
+Genre: Classical
+Year: 2012
+
+ID:22
+Mozart  by Various Artists
+Genre: Classical
+Year: 2010
+
+ID:80
+Continuum by John Mayer
+Genre: Blues
+Year: 2007
